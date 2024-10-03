@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+}
+ul li {
+  text-transform: uppercase;
+}
+.animalImg {
+  width: 150px;
+  height: 150px;
+}
